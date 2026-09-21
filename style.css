@@ -1,0 +1,24 @@
+body {
+  background-color: lightpink;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: white;
+}
+
+.character {
+  background-color: white;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 15px auto;
+  max-width: 300px;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 10px;
+}
